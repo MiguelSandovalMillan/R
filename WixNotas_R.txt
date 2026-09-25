@@ -1,0 +1,6 @@
+--     _'OPERADORES'_      --
+
+" %/% " División entera. Devuelve el cociente de la división de dos números, descartando cualquier resto.
+
+" %% " Módulo. Devuelve el resto de la división de dos números.
+
