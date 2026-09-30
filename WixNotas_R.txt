@@ -1,6 +1,26 @@
---     _'OPERADORES'_      --
+--                        _'OPERADORES'_                         --
 
 " %/% " División entera. Devuelve el cociente de la división de dos números, descartando cualquier resto.
 
 " %% " Módulo. Devuelve el resto de la división de dos números.
+
+
+
+" == " Igualdad. Compara dos valores y devuelve TRUE si son iguales, FALSE en caso contrario.
+
+" != " Desigualdad. Compara dos valores y devuelve TRUE si son diferentes, FALSE en caso contrario.
+
+" < " Menor que. Compara dos valores y devuelve TRUE si el primer valor es menor que el segundo, FALSE en caso contrario.
+
+" > " Mayor que. Compara dos valores y devuelve TRUE si el primer valor es mayor que el segundo, FALSE en caso contrario.
+
+" <= " Menor o igual que. Compara dos valores y devuelve TRUE si el primer valor es menor o igual que el segundo, FALSE en caso contrario.
+
+" >= " Mayor o igual que. Compara dos valores y devuelve TRUE si el primer valor es mayor o igual que el segundo, FALSE en caso contrario.
+
+
+
+" && " AND lógico. Devuelve TRUE si ambos operandos son TRUE, FALSE en caso contrario.
+
+" || " OR lógico. Devuelve TRUE si al menos uno de los operandos es TRUE, FALSE en caso contrario.
 
